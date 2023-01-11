@@ -33,7 +33,11 @@
 Т.к. в разных источниках названия и разнообразие категорий могут отличаться, необходимо привести все к единому виду.
 
 Источники (в точ числе один свой):
+
 https://lenta.ru/rss/
+
 https://www.vedomosti.ru/rss/news
+
 https://tass.ru/rss/v2.xml
+
 https://www.fontanka.ru/fontanka.rss
